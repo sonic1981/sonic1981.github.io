@@ -16,3 +16,9 @@ This page isn't exactly the most complicated interface I've built. It has limite
 - Some simple CSS transitions
 
 Hopefully you like what you see here. If you want to contact me regarding any of this (and you don't already have my details) then you should check out my [LinkedIn profile](https://www.linkedin.com/in/liam-hughes-69b9432a/).
+
+## Go work
+
+I'm currently learning a bit of Go lang. I have a project where I want to integrate Slack with a Google calendar for my [Climbing Club](https://www.facebook.com/ClwydMC). Rather than just writing this in C# or Javascript I decided to take the opportunity to learn a new language. So I've decided to build this as a Go/[Google Cloud Function](https://cloud.google.com/functions). 
+
+You can see [my progress here](https://github.com/sonic1981/SlackCalendar)
